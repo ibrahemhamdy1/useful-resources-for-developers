@@ -1,5 +1,5 @@
 # Useful resources for developers
-## I will keep this rep updated if anyone has a use full link just make a per or share it with me
+## I will keep this rep updated if anyone has a use full link just make a PR or share it with me
 ## Podcasts
 - [Ask developer podcast (AR+EN)](https://podcasts.apple.com/us/podcast/ask-developer-podcast-54-interview-ahmed-essam-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A9/id627390638?i=1000419843129&l=nl)
 - [Podstack (AR+EN)](https://podcasts.apple.com/eg/podcast/podstack/id1548183413)
