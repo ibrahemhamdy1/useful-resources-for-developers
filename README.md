@@ -16,6 +16,7 @@
     - [Hussein Nasser](https://www.youtube.com/user/GISIGeometry)
 - ### Programing languages 
 - ### Structures and Algorithms
+    - [Arabic Competitive Programming](https://www.youtube.com/user/nobody123497)
 - ### Design patterns
     - [Using Head first design patterns](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
