@@ -23,6 +23,7 @@
 ## Tools
 - [zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+- [BestJSON](https://bestjson.com/) - Free browser-based JSON formatting, syntax validation and structural comparison, with local input processing.
 ## Groups
 - [Egyptian geeks](https://www.facebook.com/groups/egyptian.geeks)
 
